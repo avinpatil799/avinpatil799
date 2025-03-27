@@ -1,0 +1,12 @@
+{
+  "admob_app_id": "ca-app-pub-XXXXXXXXXXXXXXXX~YYYYYYYYYY",
+  "banner": {
+    "enable": true,
+    "ad_unit_id": "ca-app-pub-XXXXXXXXXXXXXXXX/ZZZZZZZZZZ"
+  },
+  "interstitial": {
+    "enable": true,
+    "ad_unit_id": "ca-app-pub-XXXXXXXXXXXXXXXX/AAAAAAAAAA"
+  },
+  "onesignal_app_id": "YOUR_ONESIGNAL_APP_ID"
+}
